@@ -135,7 +135,7 @@ async def play(_, message: Message):
                 try:
                     await USER.join_chat(invitelink)
                     await USER.send_message(
-                        message.chat.id, "sɪʟᴇɴᴛ-ᴍᴜsɪᴄ's ᴀssɪsᴛᴀɴᴛ ᴊᴏɪɴ ᴛʜᴇ ᴄʜᴀᴛ ᴡᴏᴡ🧚‍♀️🥀")
+                        message.chat.id, "ʟᴜᴄᴋʏ-ᴍᴜsɪᴄ's ᴀssɪsᴛᴀɴᴛ ᴊᴏɪɴ ᴛʜᴇ ᴄʜᴀᴛ ᴡᴏᴡ🧚‍♀️🥀")
 
                 except UserAlreadyParticipant:
                     pass
@@ -174,14 +174,14 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="♫ ᴛᴇᴀᴍ-ʟᴜᴄᴋʏ",
+                            url=f"https://t.me/terayaarhoomai"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            text="ᴜᴘᴅᴀᴛᴇs ♫",
+                            url=f"https://t.me/official_lucky01"),
                ],
                [
-                   InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
+                   InlineKeyboardButton(text="✰ ᴄʟᴏꜱᴇ ᴍᴇɴᴜ ✰", callback_data="close_"),                   
                ],
             ]
         )
@@ -218,14 +218,14 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="♫ ᴛᴇᴀᴍ-ʟᴜᴄᴋʏ",
+                            url=f"https://t.me/terayaarhoomai"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            text="ᴜᴘᴅᴀᴛᴇs ♫",
+                            url=f"https://t.me/official_lucky01"),
                ],
                [
-                   InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
+                   InlineKeyboardButton(text="✰ ᴄʟᴏꜱᴇ ᴍᴇɴᴜ ✰", callback_data="close_"),                   
                ],
             ]
         )
@@ -239,14 +239,14 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="♫ ᴛᴇᴀᴍ-ʟᴜᴄᴋʏ",
+                            url=f"https://t.me/terayaarhoomai"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            text="ᴜᴘᴅᴀᴛᴇs ♫",
+                            url=f"https://t.me/official_lucky01"),
                ],
                [
-                   InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
+                   InlineKeyboardButton(text="✰ ᴄʟᴏꜱᴇ ᴍᴇɴᴜ ✰", callback_data="close_"),                   
                ],
             ]
         )
@@ -298,14 +298,14 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="♫ ᴛᴇᴀᴍ-ʟᴜᴄᴋʏ",
+                            url=f"https://t.me/TeraYaarHooMai"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            text="ᴜᴘᴅᴀᴛᴇs ♫",
+                            url=f"https://t.me/official_lucky01"),
                ],
                [
-                   InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
+                   InlineKeyboardButton(text="✰ ᴄʟᴏꜱᴇ ᴍᴇɴᴜ ✰", callback_data="close_"),                   
                ],               
             ]
         )
