@@ -22,8 +22,8 @@ lbda = time.time()
 async def main():
     async with bot:
         try:
-            await USER.join_chat("SILENT_DEVS")
-            await USER.join_chat("SILENT_BOTS")
+            await USER.join_chat("terayaarhoomai")
+            await USER.join_chat("official_lucky01")
             await USER.join_chat("SilentVerse")
         except UserAlreadyParticipant:
             pass
