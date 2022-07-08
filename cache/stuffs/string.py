@@ -41,21 +41,21 @@ t4 = """
 """
 
 
-t5 = """ʜᴇʏ {},\n\nʜᴇʀᴇ ɪꜱ ᴛʜᴇ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏꜰ {} \nꜱᴏ ᴅᴇᴘʟᴏʏ ᴜʀ ᴏᴡɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴀɴᴅ ᴅᴏɴᴛ ꜰᴏʀɢᴇᴛ enjoy and don't forget to fork nd to give star 😕!!"""
+t5 = """ʜᴇʏ {},\n\nʜᴇʀᴇ ɪꜱ ᴛʜᴇ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏꜰ {} \nꜱᴏ ᴅᴇᴘʟᴏʏ ᴜʀ ᴏᴡɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴀɴᴅ ᴅᴏɴᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ ꜰᴏʀᴋ ɴᴅ ɢɪᴠᴇ ꜱᴛᴀʀ 😕!!"""
 
 
-ptxt1 = "<b><i>Pinging...</i></b>"
+ptxt1 = "<b><i>ᴘɪɴɢɪɴɢ...</i></b>"
 
-ptxt2 = """<b><i><u>Wew</u></i></b>, `{}` <b><i><u>is working good!⚡</u></i></b>
+ptxt2 = """<b><i><u>ᴡᴇᴡ</u></i></b>, `{}` <b><i><u>ɪꜱ ᴡᴏʀᴋɪɴɢ ɢᴏᴏᴅ!⚡</u></i></b>
 
-<b><i><u>♡︎Ping Pong!! ✨</u></i></b>
+<b><i><u>♡︎ᴘɪɴɢ ᴘᴏɴɢ!! ✨</u></i></b>
 
-♡︎Server Ping: <code>{} ms</code>
-♡︎Bot Ping: <code>{}</code>
-♡︎Uptime: <code>{}</code>
-♡︎Pyrogram Version: <code>{}</code>
-♡︎Python Version: <code>{}</code>
-♡︎Owner: <code>@{}!</code>
+♡︎ꜱᴇʀᴠᴇʀ ᴘɪɴɢ: <code>{} ms</code>
+♡︎ʙᴏᴛ ᴘɪɴɢ: <code>{}</code>
+♡︎ᴜᴘᴛɪᴍᴇ: <code>{}</code>
+♡︎ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀꜱɪᴏɴ: <code>{}</code>
+♡︎ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ: <code>{}</code>
+♡︎ᴏᴡɴᴇʀ: <code>@{}!</code>
 """
                         
 
