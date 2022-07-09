@@ -68,7 +68,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
 
     
     image1 = Image.open("./background.png")
-    image2 = Image.open("etc/stupid.png")
+    image2 = Image.open("etc/lucky.png")
     image3 = changeImageSize(1280, 720, image1)
     image4 = changeImageSize(1280, 720, image2)
     image5 = image3.convert("RGBA")
@@ -174,10 +174,10 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="♫ ᴛᴇᴀᴍ-ʟᴜᴄᴋʏ",
+                            text="✰ ᴛᴇᴀᴍ-ʟᴜᴄᴋʏ",
                             url=f"https://t.me/terayaarhoomai"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs ♫",
+                            text="ᴜᴘᴅᴀᴛᴇs ✰",
                             url=f"https://t.me/official_lucky01"),
                ],
                [
@@ -218,10 +218,10 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="♫ ᴛᴇᴀᴍ-ʟᴜᴄᴋʏ",
+                            text="✰ ᴛᴇᴀᴍ-ʟᴜᴄᴋʏ",
                             url=f"https://t.me/terayaarhoomai"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs ♫",
+                            text="ᴜᴘᴅᴀᴛᴇs ✰",
                             url=f"https://t.me/official_lucky01"),
                ],
                [
@@ -239,10 +239,10 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="♫ ᴛᴇᴀᴍ-ʟᴜᴄᴋʏ",
+                            text="✰ ᴛᴇᴀᴍ-ʟᴜᴄᴋʏ",
                             url=f"https://t.me/terayaarhoomai"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs ♫",
+                            text="ᴜᴘᴅᴀᴛᴇs ✰",
                             url=f"https://t.me/official_lucky01"),
                ],
                [
@@ -264,7 +264,7 @@ async def play(_, message: Message):
             return await lel.edit(
                 "ᴜsᴀɢᴇ:-\n `/ytp` ᴏʀ `/play` sᴏɴɢ ɴᴀᴍᴇ | ʏᴛ ʟɪɴᴋ | ᴛɢ ᴀᴜᴅɪᴏ ғɪʟᴇ 🙋‍♀️"
             )
-        await lel.edit("Processing Your Query....")
+        await lel.edit("ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ ʙᴀʙʏ..✰")
         query = message.text.split(None, 1)[1]
         # print(query)
         try:
@@ -298,10 +298,10 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="♫ ᴛᴇᴀᴍ-ʟᴜᴄᴋʏ",
+                            text="✰ ᴛᴇᴀᴍ-ʟᴜᴄᴋʏ",
                             url=f"https://t.me/TeraYaarHooMai"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs ♫",
+                            text="ᴜᴘᴅᴀᴛᴇs ✰",
                             url=f"https://t.me/official_lucky01"),
                ],
                [
