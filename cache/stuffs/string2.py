@@ -4,7 +4,7 @@ from config import (BOT_NAME, SUPPORT_GROUP, OWNER_USERNAME, BOT_USERNAME)
 
 button1 = [
     [
-        InlineKeyboardButton(text="◉ ᴜᴘᴅᴀᴛᴇꜱ", url=f"https://t.me/SILENT_BOTS"),
+        InlineKeyboardButton(text="◉ ᴜᴘᴅᴀᴛᴇꜱ", url=f"https://t.me/official_lucky01"),
         InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ◉", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
     ],
     [
@@ -32,7 +32,7 @@ button2 = [
 
 button3 = [
     [
-        InlineKeyboardButton(text="◈ ꜱᴏᴜʀᴄᴇ", url="https://github.com/ItsmeHyper13/DevuMusic"),
+        InlineKeyboardButton(text="◈ ꜱᴏᴜʀᴄᴇ", url="https://github.com/MRLUCKYXD/DEVUMUSICX"),
         InlineKeyboardButton(text="ʙᴀᴄᴋ ◈", callback_data="HOME"),
     ],
 ]
