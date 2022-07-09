@@ -18,7 +18,7 @@
 <p><a href="https://cloud.okteto.com/deploy?repository=https://github.com/mrluckyxd/DevuMusicx"><img src="https://img.shields.io/badge/Deploy_To_Okteto%20%20-black?style=for-the-badge&logo=Okteto" width="200"/></a></p>
 </details>
 <details>
-<summary><b><h3>Credits</h3></b></summary>
+<summary><b><h3>ᴄʀᴇᴅɪᴛꜱ</h3></b></summary>
 <i>ᴀʟʟ ᴄʀᴇᴅɪᴛ ɢᴏᴇꜱ ᴛᴏ ᴛʜᴇᴀꜱᴇ ᴘᴇᴏᴘʟᴇꜱ</i><br>
 <code>ᴍʀ ʟᴜᴄᴋʏ: ᴍᴀɪɴ ᴄʀᴇᴅɪᴛ</code><br>
 <code>ɴᴜʙ ʜᴜ ᴠʀᴏ ꜱᴀᴄᴄʜɪ ᴍᴇ🥲🥲</code><br>
@@ -28,15 +28,15 @@
 
 <h4><b><i>ᴜʜʜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏ Qᴜᴇʀʏ ʀᴇʟᴀᴛᴇᴅ ᴀʙᴏᴜᴛ ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴊᴜꜱᴛ ᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ</i></b></h4>
 <p align="center">
-<a href="https://t.me/SilentVerse"><img src="https://img.shields.io/badge/Ask%20-anything-1abc9c.svg"></a>
+<a href="https://t.me/terayaarhoomai"><img src="https://img.shields.io/badge/ᴀꜱᴋ%20-ᴀɴʏᴛʜɪɴɢ-1abc9c.svg"></a>
 
 
 <p align="center">
 <pre>
 <h3><b><i>ꜰᴏʀᴋ ɴᴅ ꜱᴛᴀʀꜱ</i></b></h3>
-<img src="https://img.shields.io/github/license/ItsmeHyper13/DevuMusic.svg"> <img src="https://img.shields.io/github/forks/ItsmeHyper13/DevuMusic.svg"> <img src="https://img.shields.io/github/stars/ItsmeHyper13/DevuMusic.svg">
-<a href="https://github.com/ItsmeHyper13/DevuMusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeHyper13&repo=DevuMusic&theme=chartreuse-dark"></a>
-<a href="https://github.com/ItsmeHyper13/DevuMusic/fork"><img src="https://img.shields.io/badge/Fork%20Devu%20Music-black?style=for-the-badge&logo=github"></a>
+<img src="https://img.shields.io/github/license/ItsmeHyper13/DevuMusic.svg"> <img src="https://img.shields.io/github/forks/mrluckyxd/DevuMusicx.svg"> <img src="https://img.shields.io/github/stars/mrluckyxd/DevuMusicx.svg">
+<a href="https://github.com/mrluckyxd/DevuMusicx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mrluckyxd&repo=DevuMusicx&theme=chartreuse-dark"></a>
+<a href="https://github.com/mrluckyxd/DevuMusicx/fork"><img src="https://img.shields.io/badge/Fork%20Devu%20Music-black?style=for-the-badge&logo=github"></a>
 </pre></p>
 
 
