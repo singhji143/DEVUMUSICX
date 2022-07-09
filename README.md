@@ -1,32 +1,32 @@
-## `DevuMusic`
->Lag Free music bot for telegram 💞
-<p align="center"><h6> <code>Telegram Music</code> </h6>
+## ꜱᴛᴜᴘɪᴅ ᴍᴜꜱɪᴄꜱ
+>ʟᴀɢ ꜰʀᴇᴇ ᴍᴜꜱɪᴄ ʙᴏᴛ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ 💞
+<p align="center"><h6> <code>ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜꜱɪᴄ</code> </h6>
 
-> __Telegram Lag Free Music player which can play music in voice chat of telegram with minimum lag As depend upon their server nd quality of internet❤️🚶.__
+> __ᴛᴇʟᴇɢʀᴀᴍ ʟᴀɢ ꜰʀᴇᴇ ᴍᴜꜱɪᴄ ᴘʟᴀʏᴇʀ ᴡʜɪᴄʜ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ ʟᴀɢ ᴀꜱ ᴅᴇᴘᴇɴᴅ ᴜᴘᴏɴ ᴛʜᴇɪʀ ꜱᴇʀᴠᴇʀ ɴᴅ Qᴜᴀʟɪᴛʏ ᴏꜰ ɪɴᴛᴇʀɴᴇᴛ ❤️🚶.__
 <p align="center">
-<img src='https://telegra.ph/file/ceda1580c90e06991e883.png' alternate="Aww Reload Aunty It's Your internet issue" height="250px">
+<img src='https://telegra.ph/file/ceda1580c90e06991e883.png' alternate="ᴀᴡᴡ ʀᴇʟᴏᴀᴅ ᴀᴜɴᴛʏ ɪᴛꜱ ᴜʀ ɪɴᴛᴇʀɴᴇᴛ ɪꜱꜱᴜᴇ" height="250px">
 
 </pre>
 <details><summary> <h3><b>Deployment!</b></h3> </summary>
 <pre>
-<b><i>••Deploy DevuMusic to Heroku••</i></b>
-<p><a href="https://heroku.com/deploy?template=https://github.com/mrluckyxd/DevuMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<b><i>••ᴅᴇᴘʟᴏʏ ꜱᴛᴜᴘɪᴅ ᴍᴜꜱɪᴄꜱ ᴛᴏ ʜᴇʀᴏᴋᴜ••</i></b>
+<p><a href="https://heroku.com/deploy?template=https://github.com/mrluckyxd/DevuMusicx"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
 </pre>
 
 <pre>
-<b><i>••Deploy DevuMusic to Okteto••</i></b>
-<p><a href="https://cloud.okteto.com/deploy?repository=https://github.com/mrluckyxd/DevuMusic"><img src="https://img.shields.io/badge/Deploy_To_Okteto%20%20-black?style=for-the-badge&logo=Okteto" width="200"/></a></p>
+<b><i>••ᴅᴇᴘʟᴏʏ ʟᴜᴄᴋʏ ᴍᴜꜱɪᴄꜱ ᴛᴏ ᴏᴋᴛᴇᴛᴏ••</i></b>
+<p><a href="https://cloud.okteto.com/deploy?repository=https://github.com/mrluckyxd/DevuMusicx"><img src="https://img.shields.io/badge/Deploy_To_Okteto%20%20-black?style=for-the-badge&logo=Okteto" width="200"/></a></p>
 </details>
 <details>
 <summary><b><h3>Credits</h3></b></summary>
-<i>All credit Goes To these peoples</i><br>
-<code>ItsmeHyper13: Main Credit</code><br>
-<code>Nub Hu vro Schhi me🥲🥲</code><br>
+<i>ᴀʟʟ ᴄʀᴇᴅɪᴛ ɢᴏᴇꜱ ᴛᴏ ᴛʜᴇᴀꜱᴇ ᴘᴇᴏᴘʟᴇꜱ</i><br>
+<code>ᴍʀ ʟᴜᴄᴋʏ: ᴍᴀɪɴ ᴄʀᴇᴅɪᴛ</code><br>
+<code>ɴᴜʙ ʜᴜ ᴠʀᴏ ꜱᴀᴄᴄʜɪ ᴍᴇ🥲🥲</code><br>
 </details>
 
 
 
-<h4><b><i>You Can Ask any Query Related about This Project just click on button below</i></b></h4>
+<h4><b><i>ᴜʜʜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏ Qᴜᴇʀʏ ʀᴇʟᴀᴛᴇᴅ ᴀʙᴏᴜᴛ ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴊᴜꜱᴛ ᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ</i></b></h4>
 <p align="center">
 <a href="https://t.me/SilentVerse"><img src="https://img.shields.io/badge/Ask%20-anything-1abc9c.svg"></a>
 
