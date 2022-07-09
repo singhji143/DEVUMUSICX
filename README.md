@@ -41,8 +41,8 @@
 
 
 <h6><b><i><u>ʜᴇʀᴇ ʟᴜᴄᴋʏ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴀɴᴅʟᴇ ᴜʀ ɢʀᴏᴜᴘ ꜱᴀꜰᴇʟʏ ɴᴅ ᴘʟᴀʏ ʟᴀɢ ꜰʀᴇᴇ ᴍᴜꜱɪᴄ ᴛᴏᴏ ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴛʜɪꜱ ʀᴇᴘᴏ</u></i></b></h6>
-<p><a href='https://t.me/DEVU_ROBOT'><img src="https://img.shields.io/badge/Devu_Robot-black?style=for-the-badge&logo=telegram&logoColor=black"></a>
-<a href="https://t.me/ShiningOff"><img src="https://img.shields.io/badge/Developer%20%20-black?style=for-the-badge&logo=telegram"></a></p>
+<p><a href='https://telegram.me/lucky_officialbot'><img src="https://img.shields.io/badge/lucky_robot-black?style=for-the-badge&logo=telegram&logoColor=black"></a>
+<a href="https://telegram.me/cute_boy701"><img src="https://img.shields.io/badge/Developer%20%20-black?style=for-the-badge&logo=telegram"></a></p>
 
 
-<p><code>##ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴜɴᴅᴇʀ</code> <pre> <a href="https://t.me/SILENT_DEVS"><img src="https://img.shields.io/badge/ᴊᴏɪɴ-ᴛᴇᴀᴍ%20%20ʟᴜᴄᴋʏ-blue?style=for-the-badge&logo=telegram"></a></pre>
+<p><code>##ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴜɴᴅᴇʀ</code> <pre> <a href="https://telegram.me/official_lucky01"><img src="https://img.shields.io/badge/ᴊᴏɪɴ-ᴛᴇᴀᴍ%20%20ʟᴜᴄᴋʏ-blue?style=for-the-badge&logo=telegram"></a></pre>
