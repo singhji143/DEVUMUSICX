@@ -1,9 +1,3 @@
-# Powered by @HYPER_AD13 | @ShiningOff
-# Dear Pero ppls Plish Don't remove this line from here🌚
-
-# Powered by @HYPER_AD13 | @ShiningOff
-# Dear Pero ppls Plish Don't remove this line from here🌚
-
 from helpers.filters import command
 from pyrogram import Client as bot
 from pyrogram import filters
@@ -39,29 +33,29 @@ def callback_query(Client, callback: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(button2)
         )
     elif callback.data == "repo_k":
-        callback.answer('Source Code Of DevuMusic By @ShiningOff', show_alert=True)                
+        callback.answer('ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏꜰ ꜱᴛᴜᴘɪᴅ ᴍᴜꜱɪᴄꜱ ʙʏ @cute_boy701', show_alert=True)                
         callback.edit_message_text(
             t5.format(callback.from_user.mention, BOT_NAME),
             reply_markup=InlineKeyboardMarkup(button3)
         )
     elif callback.data == "HOME": 
-        callback.answer('Return To Home Menu!')                      
+        callback.answer('ʀᴇᴛᴜʀɴ ᴛᴏ ʜᴏᴍᴇ ᴍᴇɴᴜ!')                      
         callback.edit_message_text(
             t1.format(callback.from_user.mention, BOT_NAME, SUPPORT_GROUP),
             reply_markup=InlineKeyboardMarkup(button1)
         )
     elif callback.data == "basic_":
-        callback.answer('Basic Command Menu!')      
+        callback.answer('ʙᴀꜱɪᴄ ᴄᴏᴍᴍᴀɴᴅ ᴍᴇɴᴜ!')      
         callback.edit_message_text(
             t3,
             reply_markup=InlineKeyboardMarkup(button4)
         )
     elif callback.data == "admin_cmd":
-        callback.answer('Advance Command Menu!!')               
+        callback.answer('ᴀᴅᴠᴀɴᴄᴇ ᴄᴏᴍᴍᴀɴᴅ ᴍᴇɴᴜ!!')               
         callback.edit_message_text(
             t4,
             reply_markup=InlineKeyboardMarkup(button4)
         )
     elif callback.data == "close_":
-        callback.answer('Menu Closed!!', show_alert=True)
+        callback.answer('ᴍᴇɴᴜ ᴄʟᴏꜱᴇᴅ!!', show_alert=True)
         callback.message.delete()
