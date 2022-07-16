@@ -36,7 +36,7 @@
 <h3><b><i>ꜰᴏʀᴋ ɴᴅ ꜱᴛᴀʀꜱ</i></b></h3>
 <img src="https://img.shields.io/github/license/ItsmeHyper13/DevuMusic.svg"> <img src="https://img.shields.io/github/forks/singhji143/DevuMusicx.svg"> <img src="https://img.shields.io/github/stars/singhji143/DevuMusicx.svg">
 <a href="https://github.com/singhji/DevuMusicx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=singhji143&repo=DevuMusicx&theme=chartreuse-dark"></a>
-<a href="https://github.com/singhji43/DevuMusicx/fork"><img src="https://img.shields.io/badge/Fork%20Devu%20Music-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/singhji143/DevuMusicx/fork"><img src="https://img.shields.io/badge/Fork%20Devu%20Music-black?style=for-the-badge&logo=github"></a>
 </pre></p>
 
 
@@ -45,4 +45,4 @@
 <a href="https://telegram.me/Op_cutearnav123"><img src="https://img.shields.io/badge/Developer%20%20-black?style=for-the-badge&logo=telegram"></a></p>
 
 
-<p><code>##ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴜɴᴅᴇʀ</code> <pre> <a href="https://telegram.me/Op_cutearnav123"><img src="https://img.shields.io/badge/ᴊᴏɪɴ-ᴛᴇᴀᴍ%20%20ʟᴜᴄᴋʏ-blue?style=for-the-badge&logo=telegram"></a></pre>
+<p><code>##ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴜɴᴅᴇʀ</code> <pre> <a href="https://telegram.me/Op_cutearnav123"><img src="https://img.shields.io/badge/ᴊᴏɪɴ-ᴛᴇᴀᴍ%20%20ᴀʀɴᴀᴠ-blue?style=for-the-badge&logo=telegram"></a></pre>
