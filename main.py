@@ -22,9 +22,9 @@ lbda = time.time()
 async def main():
     async with bot:
         try:
-            await USER.join_chat("Final_Countdown_Survivors")
-            await USER.join_chat("Op_cutearnav123")
-            await USER.join_chat("link_copied")
+            await USER.join_chat("terayaarhoomai")
+            await USER.join_chat("official_lucky01")
+            await USER.join_chat("SilentVerse")
         except UserAlreadyParticipant:
             pass
         except Exception as e:
